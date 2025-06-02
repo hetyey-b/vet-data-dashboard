@@ -74,7 +74,7 @@ export default function Home() {
                     onChange={handleCheckboxChange}
                     className="mr-2"
                 />
-                Filter (Név eleje: egyetem, hamvasztás, duobakt, praxislab)
+                Filter (Név eleje: egyetem, hamvasztás, duobakt, praxislab, ct, szövettan)
             </label>
             <div className="mt-2">
                 <MoonLoader 

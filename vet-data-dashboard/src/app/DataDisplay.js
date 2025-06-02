@@ -6,7 +6,9 @@ export default function DataDisplay({data,filterOn}) {
         "egyetem",
         "hamvasztás",
         "duobakt",
-        "praxislab"
+        "praxislab",
+        "ct-",
+        "szövettan"
     ];
 
     if (!data) {
